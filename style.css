@@ -1,0 +1,31 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    color: rgb(71, 70, 70);
+}
+.Single-Orange-Text{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+
